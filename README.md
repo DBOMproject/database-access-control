@@ -26,7 +26,7 @@ Database Access control module configures access-control to a channel. This modu
 
 ## Deployment 
 
-Instructions for deploying the database-access-control using docker-compose can be found [here](https://github.com/DBOMproject/deployments/docker-compose-autochannel-setup)
+Instructions for deploying the database-access-control using docker-compose can be found [here](https://github.com/DBOMproject/deployments/tree/master/docker-compose-autochannel-setup)
 
 ## Getting help
 
